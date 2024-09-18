@@ -54,3 +54,7 @@ This project significantly enhanced my skills in:
 Completing this project equipped me with practical experience in managing big data projects using Databricks and Delta Lakes. It provided me with valuable insights into building end-to-end data pipelines that integrate various data sources, apply transformations, and deliver analysis-ready data.
 
 Feel free to explore the code provided in the attached Jupyter Notebook (`Data-Management-with-Databricks_-Big-Data-with-Delta-Lakes.ipynb`) for detailed implementation steps.
+
+## Additional Resources
+
+For a detailed walkthrough of the project implementation, you can view the published Databricks notebook [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1893039410508292/525220718083473/7017650138666480/latest.html).
